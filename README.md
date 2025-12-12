@@ -4,7 +4,7 @@ Ich bin Fachinformatiker für Anwendungsentwicklung mit Schwerpunkt auf JAVA und
 
 ## 🛠️ Fähigkeiten
 
-- Programmiersprachen: Java, Javascript, Python
+- Programmiersprachen: Java, Javascript, Python, Typescript
 - Frameworks: React, Springboot
 - Tools: GIT, Docker
 
@@ -15,5 +15,5 @@ Ich bin Fachinformatiker für Anwendungsentwicklung mit Schwerpunkt auf JAVA und
 ## 📬 Kontakt
 
 - E-Mail: ikilic89y@gmail.com
-- LinkedIn: www.linkedin.com/in/ilker-kılıç-a0a4a5362
+- LinkedIn: www.linkedin.com/in/ilker-kılıç-6868a43a0
 - XING: https://www.xing.com/profile/Ilker_Kilic16/web_profiles?expandNeffi=true
